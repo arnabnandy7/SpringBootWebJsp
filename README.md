@@ -1,4 +1,6 @@
 # SpringBootWebJsp
 Spring Boot Web app using JSP
 
-<!-- GitAds-Verify: 4YA9BG9ZPCYT2VFZ87MGX8VLRDCIOV51 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/springbootwebjsp@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/springbootwebjsp@github)
+
